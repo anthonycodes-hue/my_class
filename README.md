@@ -1,12 +1,14 @@
 # Computer Science Learning Repository
 
 <div align="center">
-  <img src="YOUR_PROFILE_IMAGE_URL" alt="Instructor Profile" width="120" style="border-radius: 50%;">
+  <img src="https://github.com/anthonyc-dev.png" width="120" height="120" alt="Anthony Crausus's GitHub profile picture" />
 
   ### Anthony Crausus
   **Computer Science Instructor**
 
   Learning materials, laboratory activities, and programming exercises for Computer Science students.
+
+  [GitHub Profile](https://github.com/anthonyc-dev)
 </div>
 
 ## Topics
