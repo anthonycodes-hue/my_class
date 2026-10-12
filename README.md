@@ -1,17 +1,22 @@
 # Computer Science Learning Repository
 
-Welcome to the Computer Science Learning Repository!
+<div align="center">
+  <img src="YOUR_PROFILE_IMAGE_URL" alt="Instructor Profile" width="120" style="border-radius: 50%;">
 
-This repository contains learning materials, code examples, laboratory activities, and programming exercises for Computer Science students, especially beginners.
+  ### Anthony Crausus
+  **Computer Science Instructor**
 
-### Topics
+  Learning materials, laboratory activities, and programming exercises for Computer Science students.
+</div>
+
+## Topics
 - HTML, CSS, and JavaScript
 - Python Programming
 - SQL and Databases
 - Computer Fundamentals
 - Programming Exercises
 
-### Goal
+## Goal
 To help students learn programming, practice coding, and develop problem-solving skills.
 
 **Happy Learning and Happy Coding!** 
